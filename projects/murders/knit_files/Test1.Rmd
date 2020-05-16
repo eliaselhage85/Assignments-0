@@ -2,7 +2,7 @@
 title: "Report on Gun murders"
 author: "Elias El Hage"
 date: "5/16/2020"
-output: github_document
+output: github_documentecho
 ---
 
 ```{r setup, include=FALSE}
